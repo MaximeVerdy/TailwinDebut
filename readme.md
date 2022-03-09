@@ -3,7 +3,7 @@
 #### présentant 3 cards
 Un peu de Tailwind pour me faire la main
 
-![screenshot](screenshot.jpg)
+![screenshot](screenshot1.jpg)
 
 ### *Notes pour installer Tailwind :*
 
