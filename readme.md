@@ -18,7 +18,7 @@ Un peu de Tailwind pour me faire la main
 https://stackoverflow.com/questions/47607602/how-to-add-a-tailwind-css-rule-to-css-checker
 
 #### - Créer dossier et fichiers
-public/index.html<br>
+public/index.html<br> 
 src/tailwind.css
 
 #### - Dans tailwind.css, ajouter
