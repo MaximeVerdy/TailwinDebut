@@ -1,5 +1,5 @@
 
-### page HTML/CSS
+### page HTML/Tailwind
 #### présentant 3 cards
 Un peu de Tailwind pour me faire la main
 
