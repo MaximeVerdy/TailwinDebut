@@ -5,7 +5,7 @@ Un peu de Tailwind pour me faire la main
 
 ![screenshot](screenshot.jpg)
 
-* Notes personnelles pour installer Tailwind : *
+*Notes personnelles pour installer Tailwind :*
 
 ## Commandes d'installation
 **Run** : `npm init -y `<br>
