@@ -14,7 +14,7 @@ Un peu de Tailwind pour me faire la main
 
 #### - Installer éventuellement *Tailwind CSS IntelliSense* pour les suggestions de class
 
-#### - Ajouter @tilwind rule pour éviter à VScode de bugger dans certains cas
+#### - Ajouter @tailwind rule pour éviter à VScode de bugger dans certains cas
 https://stackoverflow.com/questions/47607602/how-to-add-a-tailwind-css-rule-to-css-checker
 
 #### - Créer dossier et fichiers
